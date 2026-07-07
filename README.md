@@ -38,7 +38,18 @@ Version 1 DOI
 GitHub Repository
 
 https://github.com/simonellis1971/Universal-Harmonic-Theory
-⸻
+
+Project Status
+
+Version 1 has been published through Zenodo.
+
+Current Project DOI (all versions):
+10.5281/zenodo.21238676
+
+Version 1 DOI:
+10.5281/zenodo.21238677
+
+Future revisions will be released through Zenodo versioning while preserving a permanent scholarly archive.⸻
 
 Citation
 
@@ -72,7 +83,21 @@ Version 1
 
 https://doi.org/10.5281/zenodo.21238677
 
-⸻
+Repository
+
+GitHub Repository
+https://github.com/simonellis1971/Universal-Harmonic-Theory
+
+Zenodo Archive
+https://doi.org/10.5281/zenodo.21238676
+
+Ellis, S. J. (2026).
+
+Universal Harmonic Theory: Volume I – Foundations of Harmonic Field Structure (Definitive First Edition).
+
+Zenodo.
+
+https://doi.org/10.5281/zenodo.21238677⸻
 
 Licence
 

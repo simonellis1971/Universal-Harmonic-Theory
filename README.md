@@ -1,12 +1,12 @@
-Universal Harmonic Theory
+# Universal Harmonic Theory
 
-Volume I – Foundations of Harmonic Field Structure
+## Volume I – Foundations of Harmonic Field Structure
 
-Author
+**Author**
 
 Simon James Ellis
 
-ORCID: 0009-0005-8237-5088
+**ORCID:** 0009-0005-8237-5088
 
 ⸻
 

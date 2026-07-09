@@ -102,3 +102,25 @@ https://doi.org/10.5281/zenodo.21238677⸻
 Licence
 
 BSD-2-Clause License
+cff-version: 1.2.0
+
+title: Universal Harmonic Theory
+
+message: >
+  If you use this work, please cite the repository or the archived Zenodo publication.
+
+authors:
+
+- family-names: Ellis
+  given-names: Simon James
+  orcid: https://orcid.org/0009-0005-8237-5088
+
+version: 1.0
+
+doi: 10.5281/zenodo.21223618
+
+date-released: 2026-07-09
+
+license: BSD-2-Clause
+
+repository-code: https://github.com/simonellis1971/Universal-Harmonic-Theory

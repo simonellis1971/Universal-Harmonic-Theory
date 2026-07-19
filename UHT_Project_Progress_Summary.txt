@@ -1,0 +1,36 @@
+Universal Harmonic Theory – Project Progress Summary
+
+This assessment relates to publication organisation, documentation,
+preservation, and publication workflow only. It does not assess or
+validate the scientific correctness of the proposed theoretical
+framework.
+
+PROJECT STATUS
+
+☑ ORCID profile …………………………………. 100% ☑ Zenodo DOI and archive ………………………….
+95% ☑ GitHub repository ……………………………… 90% ☑ Website
+(universalharmonic.org) …………………. 85–90% ☑ Master editorial structure
+……………………… 100% ☑ Publication plan ………………………………. 100% ☑ Volume I chapters
+……………………………… 90–95% ☑ LaTeX migration ……………………………….. 90% ☐ Figures and
+infographics ……………………….. 75–80% ☐ Master manuscript consolidation
+…………………. 60–70% ☐ Final publication package ………………………. 70–75%
+
+OVERALL PROJECT PROGRESS
+
+Overall publication progress: approximately 85–90%.
+
+NEXT PRIORITIES
+
+1.  Consolidate all chapters into one master manuscript.
+2.  Finalise figures and numbering.
+3.  Produce the definitive PDF and LaTeX edition.
+4.  Synchronise GitHub, Zenodo, and the website with the same canonical
+    edition.
+5.  Preserve Version 1 as the First Editorial Edition.
+
+Summary
+
+The project has progressed from individual research notes into a
+structured, well-organised publication with a clear editorial framework,
+repository strategy, and preservation plan. The remaining work is
+primarily editorial consolidation rather than creation of new content.
